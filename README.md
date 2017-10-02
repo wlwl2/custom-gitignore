@@ -1,2 +1,2 @@
 # custom-gitignore
-Contains helpful custom gitignore files!
+Contains helpful custom gitignore files.
